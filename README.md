@@ -1,4 +1,4 @@
-# ZeldaShrinesMap
+# ZeldaShrinesMap Author: Linkang Zhan
 Listing all Shrines of Zelda on a map, each shrine can be clicked and view how to clear it.
 
 Website:https://secure-dawn-67217.herokuapp.com/
